@@ -5,4 +5,4 @@
 就沒有然後了
 
 這是我新增的東西～～～
-執行git reset
+執行git 我是shat_up
